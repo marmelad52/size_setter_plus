@@ -1,7 +1,5 @@
 library size_setter_plus;
 
-import 'dart:developer';
-
 import 'package:flutter/material.dart';
 
 part './helpers/extensions.dart';
