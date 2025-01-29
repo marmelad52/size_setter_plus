@@ -1,7 +1,7 @@
 name: size_setter_plus
 description: This package is used to develop flutter app more responsive , It
   also provides  responsive sizedbox based o source device size
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/marmelad52/size_setter_plus
 
 environment:

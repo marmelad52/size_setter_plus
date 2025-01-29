@@ -17,6 +17,8 @@ abstract class Utils {
   }
 
   static double getScreenWidth(BuildContext context, num y) {
+    // log("Source Device   width $width and Height $height");
+
     return context.screenWidth * (y / width!);
   }
 
@@ -29,6 +31,7 @@ abstract class Utils {
   }
 
   static double getScreenHeight(BuildContext context, num y) {
+    // log("setup height $height");
     return context.screenHeight * (y / height!);
   }
 
